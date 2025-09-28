@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B59B6,50:8E44AD,100:3498DB&height=200&section=header&text=Fynex&fontSize=70&animation=twinkling&fontColor=fff&fontAlignY=35" />
 
 <!-- Анимированный заголовок с иконками -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Привет!+Я+Fynex;Разработчик+IoT-решений;Создаю+ботов;🛠+Прототипер+SS14" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Привет!+Я+Fynex;Разработчик+IoT-решений;Создаю+ботов;Прототипер+SS14" alt="Typing SVG" />
 
 **Разработчик IoT-решений | Создаю ботов | Прототипер в Space Station 14**
 
