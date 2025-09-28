@@ -1,4 +1,4 @@
-# 👋 Hi! I'm KirilL Pro  
+# 👋 Hi! I'm Techcode
 
 Welcome to my GitHub. Here I share my projects, experiments, and ideas.  
 
