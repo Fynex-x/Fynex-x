@@ -4,7 +4,7 @@ Welcome to my GitHub. Here I share my projects, experiments, and ideas.
 
 ## 🚀 About Me
 - 🔧 Interested in Arduino, ESP, and microcontrollers (M5StickC Plus 2, ESP8266, etc.)  
-- 📋 Exploring and prototyping in Space Station 14.  
+- 📋 Researching and prototyping in Space Station 14.
 - 🖥 Writing simple Python programs for personal use.  
 - 🤖 Sometimes creating my own Telegram bots for personal needs.  
 
