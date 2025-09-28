@@ -1,36 +1,105 @@
-# 👋 Hi! I'm Fynex
+<div align="center">
+  
+# 👋 Привет! Я Fynex
 
-Welcome to my GitHub. Here I share my projects, experiments, and ideas.  
+**Разработчик IoT-решений | Создатель ботов | Обучения прототипов ss 14**
 
-## 🚀 About Me
-- 🔧 Interested in Arduino, ESP, and microcontrollers (M5StickC Plus 2, ESP8266, etc.)  
-- 📋 Researching and creating prototypes for the game Space Station 14. 
-- 🖥 Writing simple Python programs for personal use.  
-- 🤖 Sometimes creating my own Telegram bots for personal needs.  
+[![GitHub подписчики](https://img.shields.io/github/followers/Fynex-x?style=social)](https://github.com/Fynex-x)
+[![Посещения профиля](https://komarev.com/ghpvc/?username=Fynex-x&style=flat-square)](https://github.com/Fynex-x)
 
-## 📌 Main Projects
-- 🌐 **[M5Wiki](https://www.m5wiki.tech/)** — a knowledge base about M5Stack devices  
-
-## ⚡ Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KirilLPro1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KirilLPro1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KirilLPro1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KirilLPro1&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=KirilLPro1&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## 📫 Contacts
-- Telegram: [@kirillturi](https://t.me/kirillturi)  
-- Discord: Fynex-xx [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/BFjw6c3C)
+</div>
 
 ---
 
-⭐ If you like my projects — don’t forget to give them a star!
+## 🚀 Обо мне
+<div align="center">
+  
+| 💻 Технологии | 🎮 Интересы | 🛠 Инструменты |
+|--------------|------------|---------------|
+| Arduino & ESP | Space Station 14 | Python |
+| M5StickC Plus 2 | Прототипирование | Telegram API |
+| Микроконтроллеры | IoT-решения | C# & C++ |
+| Облачные сервисы | Боты | HTML/CSS |
+
+</div>
+
+---
+
+## 🌟 Основные проекты
+<div align="center">
+
+### [🌐 M5Wiki](https://www.m5wiki.tech/)  
+**База знаний об устройствах M5Stack**  
+*Документация, гайды и примеры кода для M5Stack устройств*
+
+[![Статус сайта](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fwww.m5wiki.tech)](https://www.m5wiki.tech)
+[![Последнее обновление](https://img.shields.io/github/last-commit/M5wiki/M5Wikicode?style=for-the-badge)](https://github.com/M5wiki/M5wikicode)
+
+</div>
+
+---
+
+## 💡 Навыки
+<div align="center">
+
+### Языки программирования
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+### Платформы и сервисы
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-%23E7352C.svg?style=for-the-badge&logo=ESP8266&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Статистика GitHub
+<div align="center">
+
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Fynex-x&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![Стрик](https://streak-stats.demolab.com/?user=Fynex-x&theme=dark&hide_border=false)
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=Fynex-x&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+---
+
+## 🏆 Трофеи GitHub
+<div align="center">
+
+![Трофеи](https://github-profile-trophy.vercel.app/?username=Fynex-x&theme=darkhub&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+## 🔝 Топ репозиториев по вкладам
+<div align="center">
+
+![Вклад в репозитории](https://github-contributor-stats.vercel.app/api?username=Fynex-x&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+## 📫 Контакты
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kirillturi)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Fynex-xx)
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐ Если вам нравятся мои проекты — поставьте звезду!**
+
+
+</div>
