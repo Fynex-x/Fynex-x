@@ -204,7 +204,7 @@
   <a href="https://discord.com/users/Fynex-xx" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 25px rgba(114, 137, 218, 0.5)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'" />
   </a>
-  <a href="mailto:kirill.turi@example.com" style="text-decoration: none;">
+  <a href="mailto:funex.email@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 25px rgba(209, 72, 54, 0.5)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'" />
   </a>
 </div>
