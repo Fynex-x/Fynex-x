@@ -29,7 +29,7 @@ Welcome to my GitHub. Here I share my projects, experiments, and ideas.
 
 ## 📫 Contacts
 - Telegram: [@kirillturi](https://t.me/kirillturi)  
-- Discord: kirillpro9143 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/BFjw6c3C)
+- Discord: Fynex-xx [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/BFjw6c3C)
 
 ---
 
