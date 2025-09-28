@@ -92,8 +92,8 @@
   <div style="background: linear-gradient(135deg, #1a1a1a, #2d2d2d); border-radius: 15px; padding: 20px; width: 250px; box-shadow: 0 4px 15px rgba(155,89,182,0.3); transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-10px)'; this.style.boxShadow='0 8px 25px rgba(155,89,182,0.5)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 15px rgba(155,89,182,0.3)'">
     <div style="text-align: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" alt="C#" style="filter: hue-rotate(270deg);" />
-      <h3 style="color: #9B59B6;">SS14 Мод</h3>
-      <p>Прототипирую новый мод для Space Station 14</p>
+      <h3 style="color: #9B59B6;">SS14</h3>
+      <p>Прототипирую для Space Station 14</p>
     </div>
   </div>
 </div>
