@@ -218,6 +218,8 @@
 
 **⭐ Если вам нравятся мои проекты — поставьте звезду!**
 
+[Посмотреть английскую версию](https://github.com/Fynex-x/Fynex-x/blob/main/README-Eng.md)
+
 <!-- Анимированный футер -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B59B6,50:8E44AD,100:3498DB&height=100&section=footer" />
 
