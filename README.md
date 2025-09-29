@@ -84,7 +84,7 @@
     <div style="text-align: center;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="60" alt="Arduino" style="filter: hue-rotate(270deg);" />
       <h3 style="color: #9B59B6;">IoT проект</h3>
-      <p>Создаю систему умного дома на ESP8266</p>
+      <p>Создание слежение за активами в Telegram и YouTube на ESP8266</p>
     </div>
   </div>
   
