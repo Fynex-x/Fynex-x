@@ -118,9 +118,9 @@
   <p>Documentation, guides, and code examples for M5Stack devices</p>
   <div style="margin-top: 15px;">
     <a href="https://www.m5wiki.tech/"><img src="https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fwww.m5wiki.tech" alt="Website Status" /></a>
-    <a href="https://github.com/M5wiki/M5Wikicode"><img src="https://img.shields.io/github/last-commit/M5wiki/M5Wikicode?style=for-the-badge" alt="Last Update" /></a>
-    <a href="https://github.com/M5wiki/M5Wikicode"><img src="https://img.shields.io/github/stars/M5wiki/M5Wikicode?style=for-the-badge" alt="Stars" /></a>
-    <a href="https://github.com/M5wiki/M5Wikicode"><img src="https://img.shields.io/github/forks/M5wiki/M5Wikicode?style=for-the-badge" alt="Forks" /></a>
+    <a href="https://github.com/M5wiki/M5wiki.github.io"><img src="https://img.shields.io/github/last-commit/M5wiki/M5wiki.github.io?style=for-the-badge" alt="Last Update" /></a>
+    <a href="https://github.com/M5wiki/M5wiki.github.io"><img src="https://img.shields.io/github/stars/M5wiki/M5wiki.github.io?style=for-the-badge" alt="Stars" /></a>
+    <a href="https://github.com/M5wiki/M5wiki.github.io"><img src="https://img.shields.io/github/forks/M5wiki/M5wiki.github.io?style=for-the-badge" alt="Forks" /></a>
   </div>
 </div>
 
