@@ -1,10 +1,10 @@
 <div align="center">
   
 <!-- Animated banner with gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B59B6,50:8E44AD,100:3498DB&height=200&section=header&text=Fynex&fontSize=70&animation=twinkling&fontColor=fff&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:FF8C00,100:FFD700&height=200&section=header&text=Fynex&fontSize=70&animation=twinkling&fontColor=fff&fontAlignY=35" />
 
 <!-- Animated title with icons -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Hi!+I'm+Fynex;IoT+Solutions+Developer;Bot+Creator;SS14+Prototyper" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&lines=Hi!+I'm+Fynex;IoT+Solutions+Developer;Bot+Creator;SS14+Prototyper" alt="Typing SVG" />
 
 **IoT Solutions Developer | Bot Creator | Space Station 14 Prototyper**
 
@@ -15,12 +15,13 @@
 
 <!-- Followers and views -->
 <div>
-  <a href="https://github.com/Fynex-x"><img src="https://img.shields.io/github/followers/Fynex-x?style=social&logo=github&label=Follow&color=9B59B6" alt="GitHub followers" /></a>
-  <a href="https://github.com/Fynex-x"><img src="https://komarev.com/ghpvc/?username=Fynex-x&style=flat-square&logo=github&label=Profile%20views&color=9B59B6" alt="Profile views" /></a>
+  <a href="https://github.com/Fynex-x"><img src="https://img.shields.io/github/followers/Fynex-x?style=social&logo=github&label=Follow&color=FF8C00" alt="GitHub followers" /></a>
+  <a href="https://github.com/Fynex-x"><img src="https://komarev.com/ghpvc/?username=Fynex-x&style=flat-square&logo=github&label=Profile%20views&color=FF8C00" alt="Profile views" /></a>
 </div>
 
 <!-- Animated divider -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:FF8C00,100:FFD700&height=100&section=footer" />
+
 
 </div>
 
@@ -221,6 +222,6 @@
 [View Russian Version](https://github.com/Fynex-x/Fynex-x/blob/main/README-ru.md)
 
 <!-- Animated footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B59B6,50:8E44AD,100:3498DB&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:FF8C00,100:FFD700&height=100&section=footer" />
 
 </div>
