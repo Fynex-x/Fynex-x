@@ -209,7 +209,7 @@
 ## 📫 Connect With Me
 
 <div>
-  <a href="https://t.me/fynex-x" style="text-decoration: none;">
+  <a href="https://t.me/Fynex-x" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Telegram-FF8C00?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 25px rgba(255,140,0,0.5)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'" />
   </a>
   <a href="https://discord.com/users/Fynex-xx" style="text-decoration: none;">
